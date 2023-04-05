@@ -1,46 +1,496 @@
 {
     "version": "1.0",
-    "sourceName": "GBox官方软件源",
-    "sourceAuthor": "GBox Official",
+    "sourceName": "Lsp科技软件源",
+    "sourceAuthor": "Lsp科技",
     "sourceLinkTitle": "主页",
-    "sourceLinkUrl": "https://gbox.run",
-    "sourceImage": "https://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2019-11-23T11:00:00+0800", 
-    "sourceDescription": "GBox官方软件源的描述",
+    "sourceLinkUrl": "https://google.com",
+    "sourceImage": "https://qxnav.com/images/logo.png",
+    "sourceUpdateTime": "2022-10-30T12:40:00+0800",
+    "sourceDescription": "Lsp科技 - 创造不一样的科技平台！",
     "appCategories": [
-        "工具"
+        "网站推荐",
+        "破解软件",
+        "多开软件",
+        "越狱工具",
+        "国外软件",
+        "其他工具"
     ],
     "appRepositories": [
-        {
-            "appType": "ENT_SIGN",
+      
+       {
+            "appType": "LINK",
             "appCateIndex": 0,
-            "appUpdateTime": "2019-11-23T08:00:00+0800",
-            "appName": "GBox",
-            "appVersion": "1.3.6",
-            "appImage": "https://gbox.run/Public/images/icon.png",
-            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
-            "appDescription": "App的描述"
+            "appUpdateTime": "2022-09-04T18:30:00+0800",
+            "appName": "Lsp资源网",
+            "appVersion": "1.0",
+            "appImage": "https://qxnav.com/images/logo.png",
+            "appLink": "https://google.com", 
+            "appDescription": "Lsp资源网 | Lsp科技，创造不一样的科技平台！"
+        },
+        
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "酷我音乐",
+            "appVersion": "10.3.7",
+            "appImage": "http://app.qxnav.com/uploads/20221116/87f7aefeaa1a0d5adf89bc4841b91692.png",
+            "appPackage": "https://share.xiaole88.com/d/IOS/%E5%BD%B1%E9%9F%B3/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90Pro_10.2.6.ipa",
+            "appDescription":"解锁豪华vip，去除广告，支持下载mv视频，去除歌曲版权限制，与官方版本共存；\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "抖音Pro",
+            "appVersion": "22.8.0",
+            "appImage": "http://app.qxnav.com/uploads/20221116/3c55df4a0ee3c0cbfe525c9bfe93cbeb.png",
+            "appPackage": "https://share.xiaole88.com/d/IOS/%E5%BD%B1%E9%9F%B3/%E6%8A%96%E9%9F%B3_22.4.0_%E6%8A%96%E9%9F%B3%E5%87%80%E5%8C%96%E7%89%88.ipa",
+            "appDescription":"抖音多功能多开版 \n注入插件：抖音小助手、抖音净化 \n设置方式：摇一摇、软件设置  \n\n修改了图标便于区分 \n与官方版共存（多开版）   \n\n支持：自动播放、去水印、视频下载、去广告、文案复制等等 \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "微信",
+            "appVersion": "8.9.23",
+            "appImage": "http://app.qxnav.com/uploads/20221117/36a62538912f56b9556d8a976d9e1bd7.png",
+            "appPackage": "https://share.xiaole88.com/d/IOS/%E7%A4%BE%E4%BA%A4%E8%81%8A%E5%A4%A9/%E5%BE%AE%E4%BF%A1/%E5%BE%AE%E4%BF%A1_8.0.30%E5%B7%A8%E9%AD%94%E4%B8%93%E7%94%A8_%E5%AE%8C%E7%BE%8E%E6%8E%A8%E9%80%81__%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98_%EF%BC%88%E5%85%A8%E5%8A%9F%E8%83%BD%EF%BC%89.ipa",
+            "appDescription":"多开版本，已注入插件：QQ净化 \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2021-01-27T15:20:00+0800",
+            "appName": "网易云音乐",
+            "appVersion": "5.7.2",
+            "appImage": "https://d-image.i4.cn/image/icon/2020/08/23/01/590338362/z1598116121401_598719.jpg",
+            "appPlist": "https://nyxz166.cn/EnterpriseApp/plist/WYYMusic.plist",
+            "appDescription": "网易云音乐破解版，解锁vip权限，长按下载MV，去广告；\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-01-27T15:20:00+0800",
+            "appName": "彩云天气",
+            "appVersion": "6.1.16",
+            "appImage": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/7f/00/3e/7f003ea2-feef-b655-e796-6241cb17fece/source/175x175bb.jpg",
+            "appPlist": "https://qixin.lanzoui.com/iqkfYvka3ti",
+            "appDescription": "vip破解版、去广告\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
         },
 
         {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2019-11-23T08:00:00+0800",
-            "appName": "LSearch",
-            "appVersion": "1.0",
-            "appPlist": "https://www.lanzous.com/i7rn4hi",
-            "appDescription": "VIP测试用，点下载，然后签名，再安装，如果能正常打开，则证明VIP成功"
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "百度网盘",
+            "appVersion": "11.17.0",
+            "appImage": "http://app.qxnav.com/uploads/20211020/d971fefe47ca65e8ded283fdac945e26.png",
+            "appPlist": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98vip%E7%89%88.ipa",
+            "appDescription": "百度网盘破解版，去除广告，观看视频支持超清画质，支持倍速播放\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
         },
-
+      
         {
-            "appType": "LINK",
-            "appCateIndex": 0,
-            "appUpdateTime": "2019-12-27T9:30:00+0800",
-            "appName": "GBox官网",
-            "appVersion": "1.0",
-            "appImage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/icon512.png",
-            "appLink": "https://gbox.run",
-            "appDescription": "网页连接测试"
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T15:00:00+0800",
+            "appName": "迅雷",
+            "appVersion": "5.32",
+            "appImage": "https://img-vip-ssl.a.88cdn.com/img/xunleiadmin/5b988a4d3f17b.png",
+            "appPlist": "https://qixin.lanzoux.com/i6r20ej",
+            "appDescription": "迅雷破解不限速下载！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
         },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T15:00:00+0800",
+            "appName": "ProCam 6",
+            "appVersion": "11.5.7",
+            "appImage": "http://app.qxnav.com/uploads/20211020/584d1e685cf86896b4aebbe7e1971f6f.png",
+            "appPlist": "https://qixin.lanzoui.com/iXRIvvk96ij",
+            "appDescription": "AppStore付费应用，售价￥50\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T17:00:00+0800",
+            "appName": "熊猫助手",
+            "appVersion": "1.0",
+            "appImage": "http://www.pandahelp.vip/",
+            "appPlist": "https://www.lanzoux.com/iLtqMg2x80j",
+            "appDescription": "熊猫助手完美黄金破解版\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-12-01T18:00:00+0800",
+            "appName": "支付宝",
+            "appVersion": "-",
+            "appImage": "https://d-image.i4.cn/image/icon/2021/01/23/14/333206289/z1611384543188_454002.jpg",
+            "appPlist": "https://qixin.lanzoui.com/ijekdiyneed",
+            "appDescription": "支付宝蚂蚁森林自动浇水，收集能量，偷能量，自动喂小鸡等！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-11-24T18:00:00+0800",
+            "appName": "冬瓜影视",
+            "appVersion": "1.0.1",
+            "appImage": "https://app.xy2468.com/data/attachment/e8df93c41df327d061617f1882daca15.png?v=1606206851",
+            "appPlist": "https://qixin.lanzoui.com/iHLHKiq33mh",
+            "appDescription": "免费在线影视，去广告！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "袋鼠下载",
+            "appVersion": "2.0.2",
+            "appImage": "https://app.daishuxiazai.com/static/daishu/img/icon@2x.png",
+            "appPlist": "https://qixin.lanzoux.com/i7daffa",
+            "appDescription": "磁力、种子、BT不限速下载！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "稿定设计",
+            "appVersion": "-",
+            "appImage": "https://pic.cr173.com/up/2018-12/20181211155646022.png",
+            "appPlist": "https://qixin.lanzoux.com/i7d930h",
+            "appDescription": "vip破解版、去广告！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2021-02-21T18:00:00+0800",
+            "appName": "漫画岛",
+            "appVersion": "3.6.8",
+            "appImage": "https://i.loli.net/2019/10/13/fwXB9dxWkAvP5KL.png",
+            "appPlist": "https://qixin.lanzoux.com/iPh6glyfyji",
+            "appDescription": "破解所有vip权限，漫画免费看！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "网易漫画",
+            "appVersion": "-",
+            "appImage": "https://android-artworks.25pp.com/fs08/2019/08/29/11/110_91dfdbc4665862b05cffa91521b37a19_con.png",
+            "appPlist": "https://qixin.lanzoux.com/i7d92ef",
+            "appDescription": "vip破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "知音漫客",
+            "appVersion": "3.4.8",
+            "appImage": "https://d-image.i4.cn/image/icon/2021/01/26/10/1012491820/z1611628164564_056026.jpg",
+            "appPlist": "https://qixin.lanzoux.com/i7d91gb",
+            "appDescription": "vip破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "优酷视频",
+            "appVersion": "8.1.2",
+            "appImage": "https://android-artworks.25pp.com/fs08/2019/09/11/10/110_0361be81a3d86aa62ca9548eca0cac39_con.png",
+            "appPlist": "https://qixin.lanzoux.com/i7d920b",
+            "appDescription": "去广告版，不是vip破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "爱奇艺视频",
+            "appVersion": "10.8.0",
+            "appImage": "https://d-image.i4.cn/image/icon/2019/08/22/11/393765873/z1566446042004_976495.jpg",
+            "appPlist": "https://qixin.lanzoux.com/i7d91oj",
+            "appDescription": "去广告版，不是vip破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "水印精灵",
+            "appVersion": "-",
+            "appImage": "https://img.99danji.com/uploadfile/2019/0421/20190421105036552.png",
+            "appPlist": "https://qixin.lanzoux.com/iMAawgcrhjg",
+            "appDescription": "ios破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "皮皮虾",
+            "appVersion": "-",
+            "appImage": "http://d.image.i4.cn/image/icon/2018/08/06/10/1393912676/z1533521401795_336772.jpg",
+            "appPlist": "https://qixin.lanzoux.com/i7iZKgcrhhe",
+            "appDescription": "皮皮虾去水印版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2021-02-03T17:00:00+0800",
+            "appName": "熊猫吃短信",
+            "appVersion": "2.0.9",
+            "appImage": "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/22/77/e22277ff-2e4e-f390-c70f-f09dc7aae39f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+            "appPlist": "https://qixin.lanzoux.com/i1Ytgla62rg",
+            "appDescription": "App Store付费app，拦截垃圾短信，可免费安装使用！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "京东助手",
+            "appVersion": "1.3.6",
+            "appImage": "http://app.qxnav.com/uploads/20211021/ab077c20e8d40fe75c75f679c6dfe9a6.png",
+            "appPlist": "https://qixin.lanzoui.com/iOkM0vkwwza",
+            "appDescription": "脚本自动执行京东任务，解放双手\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-02-03T17:00:00+0800",
+            "appName": "小红书",
+            "appVersion": "7.23",
+            "appImage": "http://app.qxnav.com/uploads/20220905/b5c8eebba95e9bea6725a022ffaba885.png",
+            "appPlist": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6/%E5%B0%8F%E7%BA%A2%E4%B9%A6Pro_7.23.ipa",
+            "appDescription": "去除启动广告、信息流广告、保存无水印，解除部分视频无法下载等\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "钉钉打卡助手",
+            "appVersion": "-",
+            "appImage": "http://d.image.i4.cn/image/icon/2017/08/12/16/930368978/z1502527021271_219968.jpg",
+            "appPlist": "https://qixin.lanzoux.com/iuOmIgcrhcj",
+            "appDescription": "钉钉打卡助手！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "爱优漫",
+            "appVersion": "-",
+            "appImage": "https://www.29663.com/uploadfile/2020/0407/20200407120305326.png",
+            "appPlist": "https://www.lanzoux.com/i02Uigcrhbi",
+            "appDescription": "爱优漫破解版！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "恋爱聊天话术",
+            "appVersion": "-",
+            "appImage": "https://liangchan.apk4399.com/ruanjiandi/d/file/collect/ios/2019/11-18/5dd2175ca6c0124501.jpg",
+            "appPlist": "https://www.lanzoux.com/i7strkb",
+            "appDescription": "恋爱聊天话术！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2020-08-26T18:00:00+0800",
+            "appName": "聊天话术王",
+            "appVersion": "-",
+            "appImage": "https://liangchan.apk4399.com/ruanjiandi/d/file/collect/ios/2019/11-18/5dd2175ca6c0124501.jpg",
+            "appPlist": "https://www.lanzoux.com/i7stooh",
+            "appDescription": "聊天话术王！\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-11-27T14:00:00+0800",
+            "appName": "微信Pro",
+            "appVersion": "8.0.31",
+            "appImage": "https://app.qxnav.com/uploads/20221116/43d9650f777b46ec6f09c2bbcb8f5b4b.jpg",
+            "appPackage": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E5%BE%AE%E4%BF%A1/WeChat_8.0.31.ipa",
+            "appDescription": "iPhone版：同一证书直接覆盖安装升级即可 \n\n 已集成插件\n WeChat、微信助手、苏兔主题、斗图助手、微信净化、 app库、积攒助手、红包达人、Joker、消息屏蔽   \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载   \n\n更新日志：https://qxnav.com/1076.html"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-11-27T14:00:00+0800",
+            "appName": "微信Pro",
+            "appVersion": "8.0.31",
+            "appImage": "https://app.qxnav.com/uploads/20221116/43d9650f777b46ec6f09c2bbcb8f5b4b.jpg",
+            "appPackage": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E5%BE%AE%E4%BF%A1/WeChatPro_8.0.31.ipa",
+            "appDescription": "iPad版：同一证书直接覆盖安装升级即可 \n\n 已集成插件\n WeChat、微信助手、苏兔主题、斗图助手、微信净化、 app库、积攒助手、红包达人、Joker、消息屏蔽   \n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载   \n\n更新日志：https://qxnav.com/1076.html"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-11-27T14:00:00+0800",
+            "appName": "微信pure",
+            "appVersion": "8.0.30",
+            "appImage": "http://app.qxnav.com/uploads/20210720/ff5ef8c2467db541a8ec86cd53bd5dbf.png",
+            "appPackage": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E5%BE%AE%E4%BF%A1/WeChatPure_8.0.30.ipa",
+            "appDescription": "纯净版；多开微信，有几率封号，害怕别用；无插件，无主题，仅修了图标，便于区分\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2025-03-02T14:00:00+0800",
+            "appName": "Fugu14",
+            "appVersion": "1.0.0",
+            "appImage": "http://app.qxnav.com/uploads/20211027/33c78e911eec3c88af4b4b6db3512291.png",
+            "appPlist": "https://qixin.lanzoui.com/iIr7zvu91sj",
+            "appDescription": "Fugu14 app集成版，需配合unc0ver7.0.0使用\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2025-03-02T14:00:00+0800",
+            "appName": "unc0ver",
+            "appVersion": "8.0.2",
+            "appImage": "https://ftp.bmp.ovh/imgs/2019/10/22851ff87236c1fa.jpg",
+            "appPlist": "https://qixin.lanzouo.com/iIWNoy7u0ja",
+            "appDescription": "支持 iOS 14.3 - 14.5.1 上的所有 arm64e 设备（iPhone XS 和更新版本）\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+      {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2025-03-02T14:00:00+0800",
+            "appName": "unc0ver",
+            "appVersion": "6.2.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2019/10/22851ff87236c1fa.jpg",
+            "appPlist": "https://qixin.lanzoui.com/iBbXzrnrv6j",
+            "appDescription": "支持A8-A13设备 ios11.0-14.3系统越狱\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2020-09-4T14:00:00+0800",
+            "appName": "Chimera",
+            "appVersion": "1.3.9",
+            "appImage": "https://repo.chimera.sh/CydiaIcon@3x.png",
+            "appPlist": "https://qixin.lanzoux.com/i8azt3a",
+            "appDescription": "A7 - A12设备仅支持12.1.3 - 12.2 & 12.4系统的一键越狱工具\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2020-11-24T11:00:00+0800",
+            "appName": "Odyssey",
+            "appVersion": "1.2.1",
+            "appImage": "https://s1.ax1x.com/2020/07/16/UDmD3Q.png",
+            "appPlist": "https://qixin.lanzoui.com/iz9Auiqtnab",
+            "appDescription": "Odyssey  越狱工具支持 iOS 13.0 13.7版本，支持A8-A13 设备，iPhone 6 - iPhone 11 系列。默认搭载Sileo 商店，支持安装其他越狱商店，可以共存。\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+      {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2021-02-20T14:00:00+0800",
+            "appName": "Filza",
+            "appVersion": "-",
+            "appImage": "http://im5.tongbu.com/userapp/AppIcon/201712/22/093951874.jpg",
+            "appPlist": "https://qixin.lanzoux.com/iYujrlvq7kf",
+            "appDescription": "ios14.0-14.3系统专用，支持A7-A14设备\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+      {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2021-02-20T14:00:00+0800",
+            "appName": "Filza",
+            "appVersion": "-",
+            "appImage": "http://im5.tongbu.com/userapp/AppIcon/201712/22/093951874.jpg",
+            "appPlist": "https://qixin.lanzoux.com/iCl8ulvq78d",
+            "appDescription": "ios13.0-13.3系统专用，支持A12-A13设备\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2025-01-27T14:00:00+0800",
+            "appName": "TikTok",
+            "appVersion": "25.6.0",
+            "appImage": "http://app.qxnav.com/uploads/20211020/92503ebcedcb145fd0bd5bbb0454fe1b.png",
+            "appPlist": "https://pan.qxnav.com/d/%E9%98%BF%E9%87%8C%E7%BD%91%E7%9B%98/%E8%8B%B9%E6%9E%9Cipa/%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6/TikTok_25.6.0_Pro.ipa",
+            "appDescription": "TikTok破解版 \n破解功能：支持无水印下载、支持换区(设置-顶部)支持登录、支持作品发布等\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+        {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2020-09-23T14:00:00+0800",
+            "appName": "FlyChat",
+            "appVersion": "6.2",
+            "appImage": "https://flychat.in/public/images/logo.png",
+            "appPlist": "https://www.lanzoux.com/iLnfagv8t4d",
+            "appDescription": "Telegram替代品，速度飞快，推荐下载\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+        
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2021-01-27T14:00:00+0800",
+            "appName": "YouTube++",
+            "appVersion": "15.49.4",
+            "appImage": "https://img.pconline.com.cn/images/nospd/upload/upc/tx/pcdlc/2101/05/c23/248616999_1609831326022.png",
+            "appPlist": "https://qixin.lanzoux.com/i2vRZky094h",
+            "appDescription": "去广告，支持视频下载\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2020-09-4T14:00:00+0800",
+            "appName": "Twitter++",
+            "appVersion": "13.02.9",
+            "appImage": "https://img.youxi369.com/down/logo/202005/1589555128mz5b.png",
+            "appPackage": "https://qixin.lanzoux.com/iC2kYkzllda",
+            "appDescription": "长按下载视频，带翻译功能，先保存一张图然后再下载视频\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        },
+      
+       {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2020-09-4T14:00:00+0800",
+            "appName": "Spotify++",
+            "appVersion": "13.02.9",
+            "appImage": "http://img.fixdown.com/uploadfile/2019/0905/20190905082711979.jpg",
+            "appPlist": "https://qixin.lanzoux.com/i8gv36j",
+            "appDescription": "破解vip，无广告\n\n访问奇心导航qxnav.com，获取更多优质网站和软件下载"
+        }
+      
+      
+      
     ]
 }
